@@ -31,3 +31,5 @@ A full-stack web app for reporting and tracking local civic issues (roads, elect
 
 ## How to Run Locally
 1. Clone the repo
+   git clone https://github.com/acharisreesanthit101-sketch/flask-issue-tracker.git
+   cd flask-issue-tracker
