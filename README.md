@@ -5,6 +5,10 @@ A full-stack web app for reporting and tracking local civic issues (roads, elect
 🔗 **Live demo:** https://flask-issue-tracker.onrender.com
 *(Free tier — first load may take ~30-50s if the server's been idle)*
 
+<img width="1920" height="1080" alt="Screenshot 2026-06-21 191115" src="https://github.com/user-attachments/assets/1d33aa6e-7479-46c4-84c0-6995e85e2ac6" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-21 191139" src="https://github.com/user-attachments/assets/c651cb88-8681-4561-be79-ed2764a173f6" />
+
+
 ## Features
 - Submit issues with name and description
 - Automatic tag detection — descriptions are scanned for keywords and auto-categorized as Road, Electricity, Water, or General
